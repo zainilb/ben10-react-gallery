@@ -1,0 +1,10 @@
+:root {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #f4fff0;
+  background-color: #07150b;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+}
+
+* { box-sizing: border-box; }
+body { margin: 0; min-width: 320px; }
